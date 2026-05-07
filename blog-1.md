@@ -1,4 +1,4 @@
-# 1. any vs unknown
+## 1. any vs unknown
 
 any is called a "type safety hole" because it disables TypeScript’s type checking. You can do anything with it, and errors may only appear at runtime.
 
