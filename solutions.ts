@@ -98,8 +98,6 @@ const student1 = new Student("Imran", 20, "A+");
 // Problem 7:
 
 
-
-
 const getIntersection = (num1: number[], num2: number[]): number[] => {
     const presentInBothArrays = num1.filter(num => num2.includes(num));
     return presentInBothArrays;
